@@ -26,12 +26,16 @@ Font: Mix blackletter and antiqua (also size...)</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>144</td>
+            <td>4</td>
+            <td>37</td>
+            <td>7</td>
          </tr>
       </tbody>
    </table>
@@ -60,7 +64,27 @@ Font: Mix blackletter and antiqua (also size...)</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>benner_herrnhuterey04_1748</td>
+                  <td>37</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>144</td>
+                  <td>4</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
