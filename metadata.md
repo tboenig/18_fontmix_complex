@@ -108,7 +108,7 @@ Font: Mix blackletter and antiqua (also size...)</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/18_fontmix_complex/releases/download/v6/bagitDump-v6.zip">Current version download: bagitDump-v6.zip</a>
+         <a href="https://github.com/tboenig/18_fontmix_complex/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/18_fontmix_complex/releases">Version archive</a>
