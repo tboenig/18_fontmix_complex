@@ -240,7 +240,7 @@ Font: Mix blackletter and antiqua (also size...)</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/main/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0014.xml">benner_herrnhuterey04_1748_0014.xml</a>
+                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/v1.0.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0014.xml">benner_herrnhuterey04_1748_0014.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -261,7 +261,7 @@ Font: Mix blackletter and antiqua (also size...)</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/main/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0016.xml">benner_herrnhuterey04_1748_0016.xml</a>
+                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/v1.0.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0016.xml">benner_herrnhuterey04_1748_0016.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -282,7 +282,7 @@ Font: Mix blackletter and antiqua (also size...)</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/main/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0015.xml">benner_herrnhuterey04_1748_0015.xml</a>
+                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/v1.0.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0015.xml">benner_herrnhuterey04_1748_0015.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -303,7 +303,7 @@ Font: Mix blackletter and antiqua (also size...)</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/main/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0013.xml">benner_herrnhuterey04_1748_0013.xml</a>
+                              <a href="https://github.com/tboenig/18_fontmix_complex/blob/v1.0.0/data/benner_herrnhuterey04_1748/GT-PAGE/benner_herrnhuterey04_1748_0013.xml">benner_herrnhuterey04_1748_0013.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
