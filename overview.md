@@ -134,8 +134,8 @@
    </thead>
    <tbody>
       <tr>
-         <th>benner_herrnhuterey04_1748_0014.xml</th>
-         <td>6</td>
+         <th>benner_herrnhuterey04_1748_0015.xml</th>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -149,7 +149,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>33</td>
+         <td>34</td>
          <td>1</td>
       </tr>
       <tr>
@@ -172,25 +172,6 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>benner_herrnhuterey04_1748_0015.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>34</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>benner_herrnhuterey04_1748_0013.xml</th>
          <td>16</td>
          <td>0</td>
@@ -207,6 +188,25 @@
          <td>0</td>
          <td>0</td>
          <td>44</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>benner_herrnhuterey04_1748_0014.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>33</td>
          <td>1</td>
       </tr>
    </tbody>
